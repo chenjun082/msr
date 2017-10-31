@@ -1,0 +1,894 @@
+This Is New	Dee Dee Bridgewater	Jazz&Blues	0.74	1.24
+Certified Bomb	Cypress Hill	Hip-hop&Rap	0.8	1.16
+From My First Moment	Charlotte Church	Classical	0.74	1.18
+Dolly Parton You Are The Only One	Dolly Parton	Country	0.72	1.18
+Smoke And Ashes	Tracy Chapman	Country	0.7	1.28
+Berceuse Pour Naomi	Mistou	Electroni	0.66	1.3
+Can U Handle It	Usher	R&B	0.64	1.24
+When I Saw You	Mariah Carey	R&B	0.74	1.26
+Anytime, Anywhere	Sarah Brightman	Easy Listening	0.68	1.28
+Negative Creep	Nirvana	Rock	0.84	1.16
+So Far Away	Crossfade	Rock	0.88	1.12
+Chambre Avec Vue	Henri Salvador	Jazz&Blues	0.56	1.1
+What About Me	Terry Callier	Folk	0.74	1.3
+Truth In Tears 5	Terry Callier	Folk	0.7	1.3
+I'm With You	Avril Lavigne	Rock	0.82	1.18
+Kurita Sensei	Kenny Garrett	Jazz&Blues	0.74	1.3
+I Can't Hear You	Donnie Iris	R&B	0.66	1.26
+My Heart Belongs To Daddy	Eartha Kitt	R&B	0.76	1.26
+Have You Seen A Child	Amahl & The Night Visitors	Classical	0.76	1.16
+Fight Fire With Fire	Metallica	Rock	0.84	1.24
+Diesel Power	The Prodigy	Hip-hop&Rap	0.84	1.22
+Cathar Rhythm	Era	Easy Listening	0.66	1.26
+Goodbye Blues	T-Bone Walker	Jazz&Blues	0.76	1.26
+Run 2 U	Jewel	Rock	0.72	1.22
+Fragile Heart	Jewel	Rock	0.8	1.22
+Haunted	Jewel	Pop	0.64	1.26
+Yes U Can	Jewel	Rock	0.74	1.22
+America	Jewel	Rock	0.74	1.24
+Becoming	Jewel	Rock	0.76	1.26
+Danger Is Go!	Powerman 5000	Rock	0.86	1.14
+How Does It Feel	Avril Lavigne	Rock	0.74	1.14
+Forgotten	Avril Lavigne	Rock	0.66	1.1
+Smooth Operator	Sade	R&B	0.68	1.24
+And I Love You	Toni Braxton	R&B	0.76	1.28
+How Fair This Place	Sarah Brightman	Easy Listening	0.7	1.26
+A Love For Life	Yanni	Easy Listening	0.62	1.26
+Amor De Mis Amores	Paul Mauriat	Easy Listening	0.5	1.54
+Where The Streets Have No Name	U2	Rock	0.66	1.2
+With Or Without You	U2	Rock	0.68	1.16
+Red Hill Mining Town	U2	Rock	0.68	1.1
+Trip Through Your Wires	U2	Rock	0.64	1.24
+How About You	Bill Evans	Jazz&Blues	0.66	1.28
+You Oughta Know	Alanis Morissette	Rock	0.78	1.2
+You Learn	Alanis Morissette	Rock	0.74	1.28
+Sister Blister	Alanis Morissette	Rock	0.76	1.12
+Hand In My Pocket	Alanis Morissette	Rock	0.72	1.26
+How Blue Can You Get	B.B. King	Jazz&Blues	0.72	1.24
+Don't Blow It	Murphy Lee	Hip-hop&Rap	0.84	1.18
+I Hate It	Ramones	Rock	0.88	1.26
+Break Me Shake Me	Enrique Iglesias	Latin	0.68	1.26
+Camera Obscura	Enigma	Electroni	0.62	1.26
+Gira Con Me Questa Notte	Josh Groban	Classical	0.66	1.36
+The Partisan	Leonard Cohen	Folk	0.7	1.24
+Bryter Layter	Nick Drake	Classical	0.5	1.44
+Lonely Heart	Boyz II Men	R&B	0.74	1.24
+This Bitter Earth	Aretha Franklin	R&B	0.72	1.2
+Mother (Remix)	Era	Pop	0.76	1.22
+Hymne	Era	Pop	0.68	1.34
+Unbreakable	Michael Jackson	Pop	0.78	1.18
+Heartbreaker	Michael Jackson	Pop	0.88	1.22
+Invincible	Michael Jackson	Pop	0.8	1.22
+Heaven Can Wait	Michael Jackson	Pop	0.78	1.18
+Butterflies	Michael Jackson	Pop	0.7	1.14
+Privacy	Michael Jackson	Pop	0.68	1.18
+Cry	Michael Jackson	Pop	0.74	1.24
+Threatened	Michael Jackson	Pop	0.84	1.12
+Working Overtime	New Order	Rock	0.7	1.22
+Let Me Be The One	Plus One	Pop	0.74	1.24
+Tonight's The Night	Sarah Connor	Jazz&Blues	0.74	1.22
+One Shot Deal	Beanie Sigel	Hip-hop&Rap	0.82	1.16
+Life After Lisa	Bowling For Soup	Rock	0.74	1.14
+Taste Of Dis	Brooke Valentine	Pop	0.78	1.14
+I Want You Dead	Brooke Valentine	Pop	0.66	1.26
+American Girl	Brooke Valentine	Pop	0.82	1.32
+Prefiero	Alex Ubago	Latin	0.66	1.32
+Beat Connection	LCD Soundsystem	Electroni	0.7	1.26
+Proud To Be A Dread	Des'ree	Jazz&Blues	0.74	1.24
+Is You Is Or Is You Ain't My Baby	Diana Krall	Jazz&Blues	0.68	1.3
+Only Trust Your Heart	Diana Krall	Pop	0.72	1.16
+Folks Who Live On The Hill	Diana Krall	Pop	0.72	1.24
+All Night Long	Diana Krall	Pop	0.74	1.22
+Trying To Get At You	8Ball & MJG	Hip-hop&Rap	0.82	1.22
+Angel Standing By	Jewel	Pop	0.7	1.26
+Don't Stop 'Til You Get Enough	Michael Jackson	Pop	0.78	1.34
+Rock With You	Michael Jackson	Pop	0.76	1.24
+She's Out Of My Life	Michael Jackson	Pop	0.78	1.2
+Un Poco De Amor	Shakira	Latin	0.72	1.26
+Flight Over North Rim	Nicholas Gunn	Easy Listening	0.56	1.44
+Away In A Manger	Kenny G	Easy Listening	0.48	1.52
+So Sorry For Your Love	Silje Nergaard	Jazz&Blues	0.66	1.24
+Shepherd Moons	Enya	Easy Listening	0.52	1.4
+It's About Time	SWV	R&B	0.72	1.3
+Breed Apart	Sepultura	Rock	0.88	1.26
+Spit	Sepultura	Rock	0.86	1.18
+Safe In The Arms Of Love	Martina Mcbride	Country	0.68	1.26
+Everyphucingday	Joyside	Rock	0.86	1.2
+Cry Myself To Sleep	The Judds	Country	0.68	1.24
+Temperance	Mark Eisenman	Jazz&Blues	0.72	1.36
+Blah Blah Cafe	Jarre Michel Jarre	Electroni	0.56	1.32
+Dolce Vita	Sarah Connor	R&B	0.74	1.28
+Now That I Found You	Michael Bolton	R&B	0.74	1.24
+Hands Tied	Patty Smyth	R&B	0.76	1.3
+I Try	Macy Gray	Pop	0.68	1.26
+Stop Breakin' Down Blues	Eric Clapton	R&B	0.76	1.24
+Valley Of The Dolls	Dionne Warwick	R&B	0.68	1.16
+Life In Mono	Mono	Electroni	0.72	1.3
+Aguas De Marco	Antonio Carlos Jobim	Jazz&Blues	0.7	1.26
+When It Hurts So Bad	Lauryn Hill	Hip-hop&Rap	0.74	1.24
+Standing Still	Jewel	Pop	0.68	1.3
+Words Of Wisdom	2Pac	Hip-hop&Rap	0.86	1.26
+What's This Life For	Creed	Pop	0.76	1.24
+With Arms Wide Open	Creed	Pop	0.72	1.2
+Weathered	Creed	Pop	0.64	1.26
+Three Sunrises	U2	Rock	0.64	1.3
+Sweetest Thing	U2	Rock	0.7	1.12
+Dancing Barefoot	U2	Rock	0.72	1.18
+Everlasting Love	U2	Rock	0.76	1.26
+Dancing With The Muse	Chris Spheeris	Easy Listening	0.6	1.4
+Creeping Death	Metallica	Rock	0.88	1.22
+One	Metallica	Rock	0.74	1.2
+Battery	Metallica	Rock	0.9	1.26
+Numb	U2	Rock	0.76	1.26
+Dirty Day	U2	Rock	0.7	1.16
+You Don't Know Me	Michael Buble	Jazz&Blues	0.66	1.32
+Wurrs My Cash	Chingy	Hip-hop&Rap	0.82	1.16
+Dlick Lips	Blink-182	Rock	0.8	1.16
+This Celluloid Dream	A.F.I.	Rock	0.72	1.3
+Message To Michael	Dionne Warwick	Jazz&Blues	0.7	1.24
+Nusex City	Alpinestars	Electroni	0.66	1.24
+Why I Love You	B2k	R&B	0.78	1.22
+Forcefield	Beck	Rock	0.68	1.28
+My Special Perfect One	Chant  Moore	R&B	0.78	1.26
+If I Ain't Got You	Alicia Keys	Jazz&Blues	0.76	1.26
+Bedda Man	Ginuwine	R&B	0.74	1.24
+How Deep Is Your Love	Ginuwine	R&B	0.66	1.24
+Caveman Head	Eurythmics	Pop	0.68	1.32
+Standing In The Doorway	Bob Dylan	R&B	0.7	1.3
+Million Miles	Bob Dylan	R&B	0.76	1.22
+Tryin' To Get To Heaven	Bob Dylan	Folk	0.66	1.3
+'Til I Fell In Love With You	Bob Dylan	R&B	0.76	1.24
+Cold Irons Bound	Bob Dylan	R&B	0.76	1.24
+Make You Feel My Love	Bob Dylan	Folk	0.58	1.28
+Can't Wait	Bob Dylan	R&B	0.68	1.24
+Down To The Last Drop	All-4-One	R&B	0.68	1.24
+Right In The Night	Jam & Spoon	Electroni	0.66	1.44
+It's Five O'clock Somewhere	Alan Jackson	Country	0.74	1.32
+Infant Eyes	Wayne Shorter	Classical	0.54	1.34
+A Ballad For Doll	Jackie McLean	Classical	0.5	1.44
+Swingin' The Samba	The Horace Silver Quintet	Jazz&Blues	0.74	1.34
+The Duchess Of Orleans	Babe Ruth	Rock	0.74	1.18
+Fantastique	K-OS	Hip-hop&Rap	0.82	1.2
+N'I Ma Sory	Kasse Mady Diabate	Easy Listening	0.68	1.36
+How About You	Johnny Smith	Jazz&Blues	0.7	1.28
+Alma Redemptoris Mater	The Hilliard Ensemble	Classical	0.64	1.36
+Dexa La Alijava	Hesperion XX	Classical	0.66	1.34
+Lasso Vita Mia Mi Fa Morire	Fretwork	Classical	0.64	1.3
+Goethe Lieder  Blumengruss	Thomas Allen	Classical	0.66	1.36
+Syrinx	Sarah Walker	Classical	0.7	1.38
+Rastlose Liebe D 222	Arleen Auger	Classical	0.64	1.38
+Suite For 13 Winds In B Flat Major Op. 4  I.       Praeludium	Minnesota Orchestra	Classical	0.62	1.5
+Aria  Meine Seele Durstet Nach Gott	Richard Hickox	Classical	0.68	1.3
+Rigaudon	Anne Queffelec	Classical	0.58	1.32
+Pigmalion  Ouverture	HervÃ© Niquet	Classical	0.58	1.36
+If Women Could Be Fair	John Dowland	Classical	0.74	1.4
+Piano Sonata No. 1 In C Minor Op.4  III.     Larghetto	Leif Ove Andsnes	Classical	0.42	1.4
+Symphony In C Minor Cw112  III.     Allegro Energico	Lise Fjeldstad	Classical	0.46	1.5
+Messe De La Nativite Organum  Graduel Viderunt Omnes	Dominique Verdan	Classical	0.54	1.34
+Ich Freue Mich Auf Meinen Tod	Nancy Argenta	Classical	0.74	1.26
+Nun Ist Das Heil Und Die Kraft Bwv50	Johann Sebastian Bach	Classical	0.72	1.38
+Symphony For Four Horns	English Chamber Orchestra	Classical	0.48	1.52
+Travellin' South	Albert Collins	Jazz&Blues	0.74	1.3
+Historia D'Un Amor	Pascal Comelade	Classical	0.52	1.4
+Mushroom Compost	U-Ziq	Electroni	0.62	1.36
+Crazy Disco Party	Wagon Christ	Electroni	0.7	1.3
+Once More	Sven Vaeth	Electroni	0.36	1.5
+Village Girl	Sheila Chandra	Easy Listening	0.7	1.36
+Dance With You	Willie	Easy Listening	0.52	1.34
+To The Mystery	Michael Card	Country	0.7	1.3
+All Too Soon	Judi Silvano	Jazz&Blues	0.76	1.26
+Im In Love And Hes In Dallas	Tanya Tucker	Country	0.7	1.24
+Love Like Yours	Ike Quebec	R&B	0.78	1.28
+Chega De Saudade	Eliane Elias	Jazz&Blues	0.74	1.34
+You Bet	John Scofield	Jazz&Blues	0.66	1.36
+Rock Me To Sleep	June Christy	Jazz&Blues	0.74	1.2
+Sittin' Up In My Room	Pieces Of A Dream	Classical	0.54	1.3
+Don'T Dream It's Over	Denise Jannah	Jazz&Blues	0.74	1.24
+Chan's Song	Jacky Terrasson	Classical	0.58	1.42
+Good Morning Blues	Lou Rawls	Jazz&Blues	0.7	1.3
+Sangrando	Gonzaguinha	Latin	0.76	1.22
+Cose Della Vita	Tina Turner	R&B	0.78	1.28
+Te Lo Va' Perder	Limi-T 21	Latin	0.72	1.32
+Sorochinsky Fair Gopak	Albert Coates	Classical	0.58	1.38
+Crack Attack	Grace Jones	R&B	0.74	1.22
+Moonlight Becomes You	Chet Baker	Classical	0.52	1.38
+Ballade Pour Adeline	Richard Clayderman	Easy Listening	0.52	1.38
+Les Roses De L'Exil	Richard Clayderman	Easy Listening	0.52	1.32
+Cacciatore	Amedeo Minghi	Easy Listening	0.72	1.34
+Amour A Mort	Les Nubians	R&B	0.76	1.26
+Nha Primero Lar	Maria De Barros	Easy Listening	0.68	1.32
+Autumn Wind	Riley Lee	Country	0.74	1.24
+Birds In Flight	Wayne Gratz	Easy Listening	0.52	1.34
+Vieux Rodeo	Les Rita Mitsouko	Rock	0.68	1.28
+Happiness Is Loving You	Alphonse Mouzon	Jazz&Blues	0.62	1.34
+Workin' Man Blues	Merle Haggard	Country	0.76	1.3
+Five Long Years	Freddie King	R&B	0.7	1.32
+Estella De Fuego	Enrique Morente	Latin	0.82	1.16
+September When It Comes	Rosanne Cash	Country	0.74	1.26
+Temps Des Cerises	Pascal Comelade	Electroni	0.48	1.28
+Ch Check It Out	The Beastie Boys	Pop	0.74	1.24
+Right Right Now Now	The Beastie Boys	Pop	0.82	1.22
+Time To Build	The Beastie Boys	Pop	0.84	1.24
+Hey Fuck  You	The Beastie Boys	Pop	0.8	1.12
+Sunrise	Norah Jones	Pop	0.72	1.32
+Creepin' In	Norah Jones	Pop	0.86	1.2
+Toes	Norah Jones	Pop	0.7	1.26
+Humble Me	Norah Jones	Pop	0.74	1.3
+Above Ground	Norah Jones	Pop	0.64	1.28
+The Long Way Home	Norah Jones	Pop	0.7	1.22
+The Prettiest Thing	Norah Jones	Pop	0.7	1.24
+The Day That Love Began	Faith Evans	Pop	0.78	1.1
+Soulful Christmas	Faith Evans	Pop	0.84	1.26
+Santa Baby	Faith Evans	R&B	0.66	1.22
+O Come All Ye Faithful	Faith Evans	Pop	0.74	1.16
+Wait In Paris	Erik Truffaz	Jazz&Blues	0.68	1.28
+A Touching Display	Wire	Rock	0.76	1.16
+Par Ici Les Ballots	Bourvil	Easy Listening	0.74	1.22
+Ud Pa Flisen Karoline	Blue Boys	Country	0.7	1.22
+Moonlight Sleigh Ride	Anita Baker	R&B	0.68	1.34
+Right To Be Wrong	Joss Stone	Country	0.72	1.26
+Vai Vai Love	Blitz	Latin	0.8	1.3
+Mamao Com Mel	Gonzaguinha	Easy Listening	0.62	1.38
+Loch Lein	Iarla O'Lionaird	Easy Listening	0.64	1.28
+What If I Never Speed	Kathleen Battle	Classical	0.66	1.4
+Jesu Christe (Messe En Do Min K427)	Raymond Leppard	Classical	0.54	1.32
+Brethren  We Have Met To Worship	Christopher Parkening	Classical	0.44	1.36
+Poulenc  Pastourelle	Christopher Parkening	Classical	0.5	1.34
+Piece En Forme De Habanera	Ginette Neveu	Classical	0.62	1.34
+Melancholy Op47 N5	Arturo Benedetti Michelangeli	Classical	0.54	1.34
+Angel's Dance	Billy Joe Walker Jr.	Country	0.64	1.34
+Sinebar	Youssou N'Dour	Easy Listening	0.86	1.24
+Paul's Dance	Penguin Cafe Orchestra	Easy Listening	0.62	1.3
+Blue Monday	Fats Domino	R&B	0.7	1.34
+Calle Del Soul	Richard Elliot	Classical	0.54	1.46
+Time After Time	Chet Baker	Jazz&Blues	0.7	1.28
+Lullaby Of Birdland	George Shearing	Jazz&Blues	0.68	1.26
+Marche Des Patineurs	Yvette Horner	Classical	0.6	1.42
+I Could Fall In Love	Selena	Latin	0.72	1.26
+Pobrecito De Mi Corazon	David Lee Garza	Latin	0.68	1.32
+Face It Girl  It's Over	Nancy Wilson	Jazz&Blues	0.76	1.32
+Cantando Celina	Celina Y Reutilio	Latin	0.74	1.24
+Solo Si Me Perdonas	Enrique Bunbury	Latin	0.72	1.26
+Bounce Back	Stacie Orrico	R&B	0.74	1.28
+I'll Get Over You	Crystal Gayle	Country	0.72	1.28
+Piano Sonata No 9 In E  Op 14 No 1	Stephen Kovacevich	Classical	0.44	1.42
+Kisses On The Wind	Neneh Cherry	Hip-hop&Rap	0.8	1.26
+Just Right	Soul II Soul	R&B	0.78	1.22
+The Cry And The Smile	Nando Lauria	Easy Listening	0.62	1.28
+Top Of The World	David Arkenstone	Easy Listening	0.5	1.42
+Nem As Paredes Confesso	Amalia Rodrigues	Pop	0.7	1.32
+Time To Say Goodbye	Gheorghe Zamfir	Easy Listening	0.64	1.32
+Two Sparrows In A Hurricane	Tanya Tucker	Country	0.64	1.28
+Haja O Que Houver	Madredeus	Easy Listening	0.64	1.34
+Lullaby Of Birdlands	Dianne Reeves	Jazz&Blues	0.64	1.28
+Handel's Sarabande	Maksim	Classical	0.58	1.44
+Jeux D'Eau	Georges Cziffra	Classical	0.6	1.32
+Living In This World	Guru	Hip-hop&Rap	0.74	1.18
+Watching The World Go By	Maxi Priest	Pop	0.72	1.26
+Adagio In C Minor	Yanni	Easy Listening	0.56	1.44
+Dont  Look Back	Telepopmusik	Electroni	0.68	1.24
+Como Los Olivos	Bebe	Latin	0.76	1.32
+From Love To Love	The Oak Ridge Boys	Country	0.68	1.22
+The Uncloudy Day	Brad Paisley	Country	0.74	1.26
+Medley Verde Luz	Raul Di Blasio	Classical	0.46	1.36
+Danke Fur All Deine Liebe	Die Schafer	Folk	0.66	1.32
+Run Through The Jungle	Jeff Healey	Pop	0.62	1.26
+Daddy Cool	Boney M.	R&B	0.74	1.28
+What Do You Want	Joy Enriquez	Latin	0.7	1.34
+The Freeway Mambo	Perez Prado	Rock	0.66	1.34
+One Long Saturday Night	Br5-49	Country	0.76	1.32
+Beijo De Longe	Cesaria Evora	Latin	0.74	1.24
+You Ought To Hear Me Cry	Willie Nelson	Country	0.72	1.22
+Mi Vida Sin Tu Amor	Cristian Mandeal	Latin	0.76	1.3
+Too Late To Worry	Ronnie Milsap	Country	0.62	1.38
+Please Don't Stop Loving Me	Dolly Parton	Country	0.7	1.32
+Varsity Drag	Tito Puente	Latin	0.68	1.36
+I'd Rather Love You	Charley Pride	Country	0.62	1.36
+Minuet Bossa	Richard Stoltzman	Classical	0.52	1.38
+The Enchanted Glen	Phil Coulter	Easy Listening	0.56	1.38
+Lots Of Drops Of Brandy	The Chieftains	Folk	0.68	1.26
+Lichter Der Freundschaft	Das Stoakogler Trio	Folk	0.66	1.24
+Wie Die Wolken So Frei	Die Schafer	Folk	0.64	1.34
+Keening Of The Three Marys	Mary McLaughlin	Classical	0.58	1.44
+Take My Hand Precious Lord	Jim Reeves	Country	0.66	1.26
+Sugarhill Groove	The Sugarhill Gang	Hip-hop&Rap	0.78	1.22
+Make You Feel My Love	Bob Dylan	Folk	0.58	1.2
+Tortured, Tangled Hearts	Dixie Chicks	Country	0.78	1.28
+Don't You Know	Jay-Z	Hip-hop&Rap	0.8	1.22
+Pleasures U Like	Jon B	R&B	0.78	1.24
+Send Her My Love	Journey	Rock	0.6	1.24
+I'm With The Pilots	Ladytron	Electroni	0.64	1.36
+Keeping My Eye On You	Michael Franks	Jazz&Blues	0.7	1.26
+Happiness Is Free	Miguel Migs	Electroni	0.62	1.36
+Out Here	Twista	Hip-hop&Rap	0.76	1.22
+Diamond Rings	Youngbloodz	Hip-hop&Rap	0.8	1.24
+Cathar Rhythm	Era	Pop	0.62	1.16
+He Oughta Know That By Now	Lee Ann Womack	Country	0.72	1.28
+Don't Look At Me That Way	Brian Kennedy	Pop	0.68	1.26
+Can't Hide Love	D'angelo	Hip-hop&Rap	0.78	1.18
+Other Side	Josh Ritter	Country	0.74	1.22
+Stones In The Road	Mary Chapin Carpenter	Country	0.68	1.32
+Tesko Suicide	Sneaker Pimps	Electroni	0.62	1.28
+Love Lives On My Street	Faithless	Electroni	0.68	1.3
+Aphelion	John Adorney	Easy Listening	0.56	1.44
+Summer On The Westhill	Kings Of Convenience	Folk	0.74	1.24
+One Thought At A Time	Massive Attack	Electroni	0.46	1.5
+Got A Feelin' For Ya	The Lewis 3	Country	0.64	1.28
+Daydream And Saunter	Kathryn Williams	Folk	0.64	1.4
+Nasty Naughty Boy	Christina Aguilera	Jazz&Blues	0.62	1.3
+Gone Crazy	Alan Jackson	Easy Listening	0.66	1.32
+Greatest You Can Find	Keren Ann	Folk	0.6	1.26
+Chelsea Morning	Joni Mitchell	Folk	0.76	1.32
+Mas Que Doidice	Antonio Carlos E Jocafi	Latin	0.74	1.26
+Give Her Ack Her Faith In Me	David Speegle	Country	0.68	1.26
+Is It Me You're Loving	Dennis Brown	Latin	0.7	1.28
+Love Version	Devon Russell	Latin	0.7	1.28
+Belfast Boy (Country Mix)	Don Fardon	Rock	0.6	1.3
+If You Were To Leave Me	Sol	Rock	0.78	1.18
+Homeless Rebel	Steely & Clevie	Latin	0.48	1.28
+Backstabbers	The Heptones	Latin	0.62	1.26
+Heaven And Earth	The Paragons	Latin	0.7	1.22
+Dedicated To You	Yellowman	Latin	0.7	1.32
+The Road That I Walk	Conway Twitty	Country	0.74	1.32
+I'm Not Gonna Give You Up	John Holt	Latin	0.66	1.24
+All Fired Up No Place To Go	Shania Twain	Country	0.66	1.34
+è¿œæ–¹çš„å¯‚é™	Lin Hai	Easy Listening	0.56	1.34
+Assim Que Te Despes	Cristina Branco	Easy Listening	0.68	1.3
+Like A Child Again	The Mission	Rock	0.72	1.34
+Candle In The Wind	YGGXLT	Easy Listening	0.64	1.22
+I Like To Score	Moby	Electroni	0.46	1.56
+I Don't Wanna Be That Strong	Patty Loveless	Country	0.7	1.26
+Ecos Na Catedral	Madredeus	Folk	0.68	1.24
+Beautiful Awakening	Stacie Orrico	Jazz&Blues	0.68	1.22
+A Change Is Gonna Come	Tina Turner	Jazz&Blues	0.72	1.24
+Work It	Missy Elliott	Hip-hop&Rap	0.76	1.28
+Seven Years	Natelie Merchant	Folk	0.7	1.24
+Crash And Carry	Orbital	Electroni	0.46	1.48
+Lincognito Dellessere	Argine	Folk	0.76	1.32
+Judgement Day	Dr Dre	Hip-hop&Rap	0.92	1.16
+Numb Encore	Dr Dre	Hip-hop&Rap	0.8	1.18
+Lose Yourself	Eminem	Hip-hop&Rap	0.78	1.24
+Steam Machine	DaftPunk	Electroni	0.68	1.28
+Sun Duck Kim	Andre Nickatina	Hip-hop&Rap	0.82	1.22
+Parking Lot	J-Kwon	Hip-hop&Rap	0.78	1.22
+Got It Sewed Up	Mike Jones	Hip-hop&Rap	0.82	1.2
+Teen Town	Weather Report	Electroni	0.68	1.36
+My Heart Belongs To You	Jim Brickman	Easy Listening	0.62	1.34
+Blitzkrieg Bop	Ramones	Hip-hop&Rap	0.78	1.24
+Dj Butter Interview	Bad Meets Evil	Hip-hop&Rap	0.82	1.26
+I'm Your Pusher	Ice-T	Hip-hop&Rap	0.8	1.24
+Back Pack	Jin	Hip-hop&Rap	0.8	1.16
+Ice Ice Baby	Vanilla Ice	Hip-hop&Rap	0.78	1.3
+Goodbye And Hello	Tim Buckley	Folk	0.76	1.24
+Pour Te Parler	Robert Miles	Electroni	0.4	1.46
+Boys To Men	Pastor Troy	Hip-hop&Rap	0.78	1.22
+Don't Mean Nuthin'	Sheek Louch	Hip-hop&Rap	0.86	1.2
+Jack Who Take What	The Hot Boys	Hip-hop&Rap	0.76	1.24
+First We Pray	Nate Dogg	Hip-hop&Rap	0.76	1.18
+Annie's Song	John Denver	Country	0.68	1.26
+For The Maggots	Insane Clown Posse	Hip-hop&Rap	0.74	1.22
+Let'S Ride	Chingy	Hip-hop&Rap	0.82	1.22
+Hey Good Lookin	Hank Williams	Country	0.74	1.28
+Honky Tonk Blues	Hank Williams	Country	0.68	1.22
+Invisible Love	Enigma	Easy Listening	0.5	1.46
+The Streamlined Man	Michael Hedges	Easy Listening	0.68	1.36
+Country Grammar	Nelly	Hip-hop&Rap	0.78	1.18
+Boom Ditty	Rev Run	Hip-hop&Rap	0.84	1.18
+Don't Make This Easy On Me	Rockie Lynne	Country	0.66	1.3
+Don't Feel Right	The Roots	Hip-hop&Rap	0.78	1.26
+I Got Luv 4 Ya	Timbaland & Magoo	Hip-hop&Rap	0.76	1.2
+Words Get In The Way	Trace Adkins	Country	0.62	1.32
+Que Me Alcance La Vida	Sin Bandera	Latin	0.68	1.32
+Freedom Of Preach	Ludacris	Hip-hop&Rap	0.86	1.16
+Your Silent Tears	All My faith lost	Folk	0.64	1.22
+The Dusk Draws Near	Darkwood	Folk	0.68	1.3
+Greatest Love	Giovanni Marradi	Classical	0.52	1.36
+I Saved You	Schiller	Electroni	0.62	1.3
+Steps In The Sand	Wayne Gratz	Classical	0.48	1.42
+Caught In The Wind	Young Buck	Hip-hop&Rap	0.76	1.24
+Done Somebody Wrong	Elmore James	Jazz&Blues	0.78	1.28
+Held My Baby Last Night	Elmore James	Jazz&Blues	0.72	1.32
+If I Had Wings	Peter, Paul And Mary	Folk	0.7	1.26
+Because All Men Are Brothers	Peter, Paul And Mary	Folk	0.7	1.24
+Gimmie What U Got	St. Lunatics	Hip-hop&Rap	0.76	1.22
+So Good Feat Keon Bryce	Angie Martinez	Hip-hop&Rap	0.82	1.22
+Felonies	Boyz N Da Hood	Hip-hop&Rap	0.78	1.24
+Alexander The Great	Bond	Classical	0.54	1.44
+Gliding Moon	Crain brian	Easy Listening	0.48	1.44
+Way Down South	Josh Turner	Country	0.64	1.36
+Family Affair	Mary J. Blige	R&B	0.74	1.26
+Aranjuez Ma Pensee	Summer	Classical	0.68	1.24
+Bullfighterâ€™s Dream	Ottmar Liebert	Classical	0.54	1.32
+Beautiful Woman	Darkel	Electroni	0.64	1.36
+Ferry Across The Mersey	David Lanz	Easy Listening	0.52	1.46
+Prodigal Son's Prayer	Dierks Bentley	Country	0.72	1.32
+Southern Nigga	Scarface	Hip-hop&Rap	0.74	1.16
+Got Music	Stephen Marley	Latin	0.68	1.28
+She Don't Love Me	Trent Willmon	Folk	0.76	1.26
+Flawed Piano Version	Nao Matsushita	Classical	0.6	1.32
+A Wind With No Name	Ryo Kunihiko	Classical	0.7	1.3
+Heartache Tonight	Eagles	Rock	0.62	1.3
+Here Comes That Rainbow Again	Highwaymen	Folk	0.74	1.24
+Imagine Me	Kirk Franklin	Jazz&Blues	0.74	1.32
+Chanson Pour Patrick Dewaere	RaphaÃ«l	Latin	0.74	1.26
+Going Away	The Innocence Mission	Country	0.76	1.26
+When I Fall In Love	Chris Botti	Jazz&Blues	0.66	1.36
+La Cucaracha	James Last	Easy Listening	0.6	1.3
+Sospirando	James Last	Easy Listening	0.58	1.36
+The Otherside	Bubba Sparxxx	Hip-hop&Rap	0.86	1.22
+Olympic Dream	Maksim Mrvica	Classical	0.52	1.4
+Valse Allemande	Arturo Benedetti Michelangeli	Classical	0.54	1.38
+Paradigm	Pristina	Electroni	0.64	1.34
+The Most Beautiful Girl	James Last	Easy Listening	0.5	1.34
+Gefangenen Chor	James Last	Easy Listening	0.44	1.38
+Dark Omen	G G R	Electroni	0.54	1.36
+Fire And Rain	James Taylor	Folk	0.76	1.24
+Something More	Sugarland	Country	0.74	1.3
+I Think I See The Light	Cat Stevens	Folk	0.76	1.28
+Right Here Right Now	Paul Oakenfold	Hip-hop&Rap	0.74	1.26
+Meet You There	Simple Plan	Rock	0.7	1.28
+The Girl I Left Behind	The Chieftains	Country	0.7	1.26
+Se Lo Dices Tu	Alejandro Sanz	Latin	0.74	1.26
+In This Life	Collin Raye	Country	0.66	1.3
+Roll To The Middle	Sara Groves	Folk	0.68	1.22
+Everybody Move It	Teddy Thompson	Folk	0.68	1.26
+Oriente Mediterraneo	Vicente Amigo	Latin	0.76	1.24
+Now You Know	Sophie Zelmani	Folk	0.76	1.24
+It's Ll And Santana	LL Cool J	Hip-hop&Rap	0.8	1.14
+Say You Will	Wakefield	Rock	0.86	1.2
+El Condor Pasa	Paul Simon	Folk	0.68	1.24
+Carmen Entracce	Maksim	Classical	0.46	1.44
+Gates Of Dawn	Secret Garden	Easy Listening	0.66	1.32
+Sunny Goodge Street	Judy Collins	Folk	0.74	1.26
+Daytona 500	Ghostface Killah	Hip-hop&Rap	0.78	1.24
+Lady Of The Island	Crosby Stills And Nash	Folk	0.68	1.34
+Travel Alone	Ian Bostridge	Jazz&Blues	0.7	1.22
+Lonely	Akon	Hip-hop&Rap	0.8	1.2
+After The Black Bird Sings	The Wallflowers	Folk	0.66	1.24
+Call My Job	Albert King	Jazz&Blues	0.74	1.32
+The End Of The Race	Willy Mason	Folk	0.66	1.28
+It's Too Late	Carole King	Folk	0.7	1.24
+I Talked To You	Anika Moa	Folk	0.68	1.4
+Season Of Farewell	Donovan	Folk	0.64	1.28
+Happiness And Misery	Jonny	Rock	0.78	1.24
+Like This Featuring Yung Joc	Marques Houston	Jazz&Blues	0.66	1.24
+How You Just Gonna	Marques Houston	Jazz&Blues	0.74	1.22
+All My Life	K-CI & JOJO	R&B	0.76	1.24
+Beale Street Blues	Jack Teagarden	Classical	0.6	1.34
+Heaven On Earth Down Here	Beverley Mitchell	Country	0.66	1.34
+The Wanderer's Theme	Peter Miller	Classical	0.58	1.32
+Sons Of Garvey	Joe Higgs	Latin	0.72	1.26
+Crow On The Cradle	Show Of Hands	Folk	0.64	1.3
+The Hesitant	Lach	Folk	0.64	1.28
+This Land Is Your Land	Lach	Folk	0.74	1.4
+Jota De Cruces	Os Dezas De Moneixas	Folk	0.6	1.36
+Homestead Of My Dreams	Smoky Dawson	Country	0.72	1.26
+Noc Je Dlouha	Echt!	Rock	0.94	1.3
+Na Chvili Ven	Nahoru po schodisti dolu band	Latin	0.72	1.28
+Rumba Nostros	Izlase	Classical	0.52	1.36
+Merengue Tropical	Banda Duck Latino	Latin	0.8	1.34
+Buonanotte Fiorellino	Tukano	Folk	0.76	1.26
+Un Giorno Tortorella	Gigi Stok	Folk	0.66	1.3
+Suspiri Tua	Epifani Barbers	Easy Listening	0.72	1.3
+Maremma Amara	E.D.P.S.	Folk	0.68	1.22
+Raios De Sol	Impakto Latino	Electroni	0.66	1.34
+Sangue Romagnolo	Orchestra Romagna Folk	Folk	0.68	1.4
+A Ninnia	Duo Folk Anna E P.Seddone	Folk	0.8	1.32
+The Riverdance	The Hit Crew	Easy Listening	0.56	1.5
+Te Quiero Mi Amor	Pura Vida	Latin	0.76	1.26
+Simply Natural	To Be Acoustic	Easy Listening	0.46	1.46
+Smiling Shadows Lie	David Wright	Electroni	0.62	1.38
+Segura A Nega	Clube Do Balanco	Latin	0.68	1.36
+Johns Desire	Doug Williams	Folk	0.78	1.22
+Going My Way	Liedschatten	Electroni	0.64	1.36
+Coming Down The Backside	BillyBlues	Folk	0.76	1.24
+Un So Korasaun	CV Boys band	Easy Listening	0.66	1.24
+Restless Blues	Les ober	Classical	0.5	1.4
+Decen Radio Edit	Keenan Baxter	Electroni	0.54	1.32
+Running For Khvost	The Romantics	Easy Listening	0.72	1.36
+For Trax Sake	Acid Boy Chair	Electroni	0.44	1.52
+Preemptive Grooving	Spunkshine	Electroni	0.58	1.46
+Just Above A Whisper	Phil Townsend	R&B	0.76	1.28
+Tidal Wave	Mothra	Electroni	0.66	1.24
+Mind Your Bussines	mario pompetti	Electroni	0.5	1.36
+One Stupid Question	Michael Monroe	Folk	0.66	1.3
+Dancing To A Higher Life	Voltage	Electroni	0.64	1.34
+Someone Elses Shoes	Six Mile Grove	Country	0.64	1.3
+Lordly Dub	Jah Free	Latin	0.62	1.28
+Nothing Left To Bury	Death Vessel	Country	0.6	1.3
+Yo Te Digo Adios	RÃ¡faga	Latin	0.72	1.34
+Taynu Razgadayu	Alyona Vinnitskaya	Latin	0.66	1.34
+Love And Unity	Neon Prophet	Latin	0.7	1.26
+La Milonga De Don Taco	Cacho Tirao	Latin	0.72	1.3
+La Noche Que Yo Te Vi	Vilma Palma E Vampiros	Latin	0.66	1.3
+Pan Del Agua	Liliana Herrero	Latin	0.7	1.24
+Tristecito	Axel Krygier	Latin	0.44	1.44
+Ojos Tristes	Fernando Blanco	Latin	0.68	1.26
+Kara Kis Gelmeden	Sabahat Akkiraz	Easy Listening	0.72	1.36
+Sehnaz Longa	Barbaros erkose	Easy Listening	0.62	1.44
+Embraced Like Doves	George Zambetas	Easy Listening	0.5	1.38
+Everything Will Be OK	John Tejada	Electroni	0.66	1.36
+Eel Sand Witch	Adventure Time	Electroni	0.5	1.34
+Giorno Per Giorno	Na-Sa	Electroni	0.7	1.24
+Winter Into Spring	Ken Bonfield	Folk	0.66	1.4
+Every Mans Sin	Cruciform Injection	Electroni	0.6	1.32
+Give Me The Light	DJ Godfather	Electroni	0.82	1.36
+My Wildest Dream	Keith Williams	Electroni	0.64	1.3
+The Revolutionist	INFEKTO	Electroni	0.54	1.3
+Rurale Dance	Jack Miles	Easy Listening	0.58	1.4
+Eye Of The Storm	Visionary Underground	Electroni	0.72	1.34
+Mangal Gaavone	Hema Desai	Easy Listening	0.62	1.32
+Carnavalez	LoOp	Electroni	0.56	1.4
+Think I'm In Love	DC Sayner	Country	0.6	1.42
+Fox Hollow Fox Hollow III Reels	Nine Mile Burn	Country	0.68	1.28
+It's All In Your Head	Niall James Holohan	Folk	0.78	1.2
+Working On A Girlfriend	Blind Niall Houlihan	Folk	0.76	1.2
+Return To Me	Witchcraft	Electroni	0.54	1.32
+Tydirium Thirteen	Brave New World	Electroni	0.6	1.36
+Trouble Is I'm In Love With You	Kelli Lidell	Country	0.7	1.36
+Hand In Mine	Davol	Electroni	0.56	1.38
+Footstomping	The Secret Service Band	Country	0.74	1.28
+Shannon Goodson	Tandy	Country	0.74	1.32
+Let's Check It Out	Anne Minnery	Country	0.68	1.28
+Laura Lee	Shimek	Country	0.76	1.2
+That Smile Inside	M-Halo	Rock	0.7	1.14
+How Can You Say	L.Q.N.	Electroni	0.64	1.28
+Waiting On You	Montage Pheloan and Youth Fellowship	R&B	0.68	1.22
+Invocation	Sita	Easy Listening	0.56	1.24
+Love Dot Com	Aasha	Electroni	0.66	1.4
+Beautiful Tings	Electronfarm	Electroni	0.6	1.3
+Watching You Die	Data-Bank-A	Electroni	0.6	1.24
+Techno's Love Theme	Reflector	Electroni	0.7	1.36
+Summer Flight	Zoe Speaks	Folk	0.72	1.28
+Warm Blanket	King Lewman	Folk	0.72	1.26
+Liquid Heart	Hook The Captain	Electroni	0.58	1.38
+When The Track Begins	Heet Mob	Hip-hop&Rap	0.84	1.22
+Far Side Banks Of Jordan	Smokey Greene	Country	0.76	1.22
+Going Up The Country	Travis Matte and the zydeco kingpins	Folk	0.74	1.26
+I Can't Go On	Benny Latimore	R&B	0.72	1.24
+2 Step Syndrome	Smitty	Hip-hop&Rap	0.78	1.18
+They Don't Know	N4RED	Hip-hop&Rap	0.8	1.2
+Could It Be	The Edsels	R&B	0.74	1.2
+Nowhere To Run	Hattie Littles	R&B	0.64	1.32
+Take Me In Your Arms	Kim Weston	R&B	0.74	1.26
+One Way Street	Miquel Brown	R&B	0.76	1.24
+Everybody Knows	Map Of Wyoming	Folk	0.62	1.24
+Digor Eo An Hent	Alan Stivell	Easy Listening	0.86	1.18
+Wobbly Flu Twilight	Lunz	Easy Listening	0.42	1.48
+Stupid Boy	Keith Urban	Country	0.66	1.3
+Why I Sing The Blues	B.B. King	Jazz&Blues	0.74	1.32
+The Thrill Is Gone	B.B. King	Jazz&Blues	0.72	1.32
+Heal The World	Michael Jackson	R&B	0.74	1.24
+We've Had Enough	Michael Jackson	R&B	0.78	1.28
+Remember The Time	Michael Jackson	R&B	0.78	1.24
+Liberian Girl	Michael Jackson	R&B	0.72	1.3
+Scream	Michael Jackson	R&B	0.76	1.24
+The Very Thought Of You	Nancy Wilson	R&B	0.72	1.22
+My Love Is Down	B.B. King	Jazz&Blues	0.68	1.28
+7 Days	Craig David	Hip-hop&Rap	0.76	1.24
+Vision Of Love	Mariah Carey	Pop	0.7	1.24
+Without You	Mariah Carey	Pop	0.74	1.22
+Always Be My Baby	Mariah Carey	Pop	0.74	1.26
+Dreamlover	Mariah Carey	Pop	0.72	1.18
+Anytime You Need A Friend	Mariah Carey	Pop	0.64	1.34
+Troublemaker	Akon	Hip-hop&Rap	0.84	1.2
+Heartless	Kanye West	Hip-hop&Rap	0.78	1.16
+The One	Mariah Carey	R&B	0.68	1.28
+I Want To Be Loved	Muddy Waters	Jazz&Blues	0.66	1.14
+She's So Pretty	Muddy Waters	Jazz&Blues	0.72	1.34
+I Just Want To Make Love To You	Muddy Waters	Jazz&Blues	0.64	1.24
+Say You Love Me	Naturally 7	R&B	0.68	1.32
+Sick Of Hanging On	Hoobastank	Rock	0.78	1.26
+Lollipop	Lil' Wayne	Hip-hop&Rap	0.76	1.22
+Nobody	Ne-Yo	Hip-hop&Rap	0.82	1.24
+No More Walks In The Wood	Eagles	Pop	0.7	1.2
+Dance With My Father	Luther Vandross	R&B	0.7	1.26
+A House Is Not A Home	Luther Vandross	R&B	0.76	1.24
+Too Far	Scorpions	Rock	0.66	1.24
+Rhythm Of Love (Acoustic)	Scorpions	Rock	0.72	1.22
+White Dove	Scorpions	Rock	0.72	1.18
+Hey You	Scorpions	Rock	0.7	1.34
+Over The Top	Scorpions	Rock	0.72	1.22
+Wind Of Change (Spanish Version)	Scorpions	Rock	0.64	1.24
+My Heart Will Go On	Celine Dion	Pop	0.76	1.26
+To Love You More	Celine Dion	Pop	0.74	1.28
+The Power Of Love	Celine Dion	Pop	0.78	1.28
+Never Grow Old	The Cranberries	Rock	0.58	1.22
+Make It Real	Scorpions	Rock	0.76	1.24
+Don't Make No Promises	Scorpions	Rock	0.76	1.22
+I Still Believe (Album Version)	Mariah Carey	R&B	0.74	1.26
+Welcome Home (Sanitarium)	Metallica	Rock	0.8	1.26
+Mama Said	Metallica	Rock	0.68	1.26
+Turn The Page	Metallica	Rock	0.72	1.3
+Speed Of Light	Corbin Bleu	R&B	0.78	1.22
+Carrying Your Love With Me	George Strait	Country	0.68	1.28
+Right Round	Flo Rida	Hip-hop&Rap	0.82	1.16
+Closure	Gerald Levert	R&B	0.64	1.2
+Cry Me A River	Esther Phillips	R&B	0.72	1.3
+Why Baby Why	Lavern Baker	R&B	0.78	1.26
+She Ain't Going Nowhere	Rodney Crowell	Country	0.66	1.26
+Hard Times	Baby Huey	R&B	0.74	1.24
+Crayon Angels	Judee Sill	Folk	0.76	1.24
+If I Had A Hammer	Arlo Guthrie	Folk	0.72	1.28
+River Of Tears	Highway 101	Country	0.74	1.32
+Unbelievable (Single Version / Radio Edit)	Craig David	R&B	0.72	1.2
+Don't Be A Fool	Prema	R&B	0.78	1.24
+Si Te Vas	La Mona Jimenez	Latin	0.66	1.28
+Amarantine	Enya	Easy Listening	0.6	1.36
+Sumiregusa	Enya	Easy Listening	0.6	1.34
+Friday Night	Craig David	R&B	0.82	1.3
+Awkward	Craig David	R&B	0.76	1.28
+Kinda Girl For Me	Craig David	R&B	0.76	1.24
+She's On Fire	Craig David	R&B	0.76	1.28
+Don't Play With Our Love	Craig David	R&B	0.74	1.26
+Top Of The Hill	Craig David	R&B	0.72	1.22
+The Celts	Enya	Easy Listening	0.6	1.36
+Journey Of The Angels	Enya	Pop	0.68	1.3
+Trains And Winter Rains	Enya	Easy Listening	0.6	1.38
+Last Time By Moonlight	Enya	Pop	0.68	1.26
+Stars And Midnight Blue	Enya	Easy Listening	0.66	1.32
+I Love College	Asher Roth	Hip-hop&Rap	0.76	1.16
+Good Morning Heartache	Ally Jay	Country	0.68	1.34
+Show Me The Way	Keith Sweat	R&B	0.66	1.26
+I Feel Free	Eric Clapton	Jazz&Blues	0.74	1.26
+Bell Bottom Blues	Eric Clapton	Jazz&Blues	0.74	1.2
+I Know My Love	Pam Hall	Latin	0.7	1.28
+Birds And The Bees	Determine	Latin	0.76	1.26
+Show Your Love	Benjy Myaz	Latin	0.66	1.26
+Take Em To Church	Cam'ron	Hip-hop&Rap	0.8	1.22
+Me And Bobby McGee	Roger Miller	Country	0.72	1.32
+Empire State Of Mind	Jay-Z	Hip-hop&Rap	0.8	1.2
+This Is Pop (Single Version) (2002 Digital Remaster)	XTC	Pop	0.82	1.22
+Crazy Love	Peabo Bryson	R&B	0.76	1.28
+Half As Much	Marty Robbins	Jazz&Blues	0.74	1.24
+Whereever I Go	Marianne Faithfull	Rock	0.64	1.24
+The Lost Children	Michael Jackson	Pop	0.74	1.34
+Movin' Me On	Eliane Elias	Jazz&Blues	0.64	1.28
+Chants Magnetiques II	Jean Michel Jarre	Electroni	0.7	1.32
+One Part Be My Lover	Bonnie Raitt	Jazz&Blues	0.7	1.24
+Doing It Way Big	Lil Kim	Hip-hop&Rap	0.78	1.18
+Greatest Love Of All	Whitney Houston	R&B	0.7	1.28
+Ride The Lightning	Metallica	Rock	0.74	1.24
+Milonga Del Angel	Yo Yo Ma	Easy Listening	0.56	1.44
+How Does It Feel	Anita Baker	R&B	0.78	1.32
+Things Behind The Sun	Nick Drake	Folk	0.76	1.3
+Break Me Shake Me	Savage Garden	Easy Listening	0.64	1.28
+Mister Ambivalent	Loudon Wainwright III	Folk	0.7	1.36
+Open Country	Gerry Mulligan	Jazz&Blues	0.62	1.46
+Light Switch	Parking Lot Pimp	R&B	0.74	1.34
+Friends For Life	Jim Brickman	Easy Listening	0.52	1.44
+Embracing The Sunshine	BT	Electroni	0.48	1.58
+Get It How You Live	Twista	Hip-hop&Rap	0.78	1.22
+The Last One	Aquanote	Pop	0.64	1.22
+High Five	Young Dro	Hip-hop&Rap	0.74	1.2
+Everybody's Talking	Julio Iglesias	Latin	0.76	1.28
+Eso Que Llaman Amor	Luis Fonsi	Latin	0.72	1.24
+Can't Stoppa	Raptile	Hip-hop&Rap	0.74	1.12
+For Once In My Life	Michael Buble	Jazz&Blues	0.66	1.46
+Litzmannstadt	Not	Electroni	0.56	1.38
+Fade To Black	Metallica	Rock	0.66	1.3
+The Farmhouse	Jacqueline Du Pre	Classical	0.56	1.36
+Rince Briotanach	Clannad	Folk	0.68	1.32
+II     Poco Adagio   Vivace	The Nash Ensemble	Classical	0.42	1.38
+Sailing On	Bad Brains	Rock	0.88	1.22
+Diluyendose	La Mosca Tse-Tse	Latin	0.72	1.32
+Give Me A Reason	Marc Anthony	Latin	0.7	1.32
+V. Bouree I And  II	Pablo Casals	Classical	0.56	1.44
+All About Leave And Down	A J Alex	Folk	0.64	1.2
+Hard 2 Survive	Minus 8	Electroni	0.58	1.28
+Father In The Forest	Matisyahu	Latin	0.66	1.26
+White Man	Steeleye Span	Easy Listening	0.62	1.34
+Everybody Jump!	Anti-Funky	Electroni	0.62	1.34
+What's Love	Sister Friction	Electroni	0.62	1.3
+Rowan Tree	Hollie Smith	Easy Listening	0.58	1.36
+Us 2 Little Gods	Dido	Pop	0.74	1.32
+Start Me Up	Scorpions	Rock	0.72	1.3
+Ring My Bell	Madonna	Pop	0.68	1.26
+My Humps	Black Eyed Peas	Hip-hop&Rap	0.74	1.2
+Weeping Willow Boogie	John Lee Hooker	Jazz&Blues	0.74	1.26
+One Tree Hill	U2	Rock	0.64	1.3
+Alanson, Crooked River	Sufjan Stevens	Folk	0.94	1.36
+Lemon	U2	Rock	0.74	1.24
+Love On A Two Way Street	Grant Green	Jazz&Blues	0.66	1.3
+Stranger In Paradise	Wes Montgomery	Jazz&Blues	0.84	1.3
+Sister Kate	Sidney Bechet	Jazz&Blues	0.64	1.32
+Blues I Like To Hear	King Pleasure	Jazz&Blues	0.68	1.26
+I'll Be There For You	The Moffatts	Country	0.64	1.24
+His Grace Is Sufficient	Jennifer Kanpp	Folk	0.76	1.26
+The King Of Oak Street	Kenny Rogers	Country	0.66	1.3
+Legendary Life	Bad Azz	Hip-hop&Rap	0.78	1.24
+Is It Raining At Your House	Vern Gosdin	Country	0.72	1.42
+Smoking Sunshine	The Specialist	Electroni	0.54	1.32
+Dale Al Porompompom	Baile Latino	Latin	0.74	1.3
+Spiral To The Center	Denean	Easy Listening	0.64	1.32
+Yoke Of Apartheid	Tucker Rainbow	Latin	0.68	1.26
+Where Will You Go	Babyface	Pop	0.66	1.24
+Fade To Black	Metallica	Rock	0.64	1.3
+Midnite Mile	Terry Callier	Folk	0.72	1.28
+A Night In Tunisia	Dizzy Gillespie	Jazz&Blues	0.7	1.22
+Broadway	Diana Krall	Pop	0.72	1.26
+Put It Back Together	Fatboy Slim	Electroni	0.58	1.28
+Le Rossignol Des Lilas	Rachel Yakar	Classical	0.68	1.4
+Trouble In Mind	Dodo Greene	Jazz&Blues	0.76	1.2
+Hail  Men O' War's Men	Sir Malcolm Sargent	Classical	0.7	1.28
+Requiem Op. 48	Philip Ledger	Classical	0.5	1.42
+Sweet Georgia Brown	Coleman Hawkins	Jazz&Blues	0.72	1.36
+Ivory Moon	Steven Halpern	Easy Listening	0.4	1.34
+Somewhere Somebody	Jennifer Warnes	Folk	0.68	1.22
+Vamos A Tocar	Los Clavos	Latin	0.7	1.24
+From 7 To 8	Camping	Electroni	0.72	1.22
+Overdriver	The Reverse	Electroni	0.68	1.32
+Dangerous	Michael Jackson	R&B	0.72	1.22
+Always And Forever	Luther Vandross	R&B	0.72	1.3
+Still In Love	Club Nouveau	R&B	0.7	1.28
+Blues For Janice	Chris Rea	Jazz&Blues	0.6	1.22
+Walk Through This World With Me	Conway Twitty	Country	0.66	1.3
+Ghostface	Ghostface	Hip-hop&Rap	0.82	1.2
+La Nuit Est Mauve	Patricia Kaas	Jazz&Blues	0.72	1.36
+Said I Loved You But I Lied	Michael Bolton	Folk	0.64	1.34
+Song For A Blue Guitar	Red House Painters	Folk	0.68	1.34
+Faust  Waltz	Pepe Romero	Classical	0.52	1.5
+Fade To Black	Metallica	Rock	0.76	1.38
+All The Young (People Of Today)	Eurythmics	Pop	0.66	1.3
+Straw Against The Chill	Kathy Mattea	Country	0.7	1.34
+Carnival Town	Norah Jones	Pop	0.62	1.38
+In Paradisum	Seiji Ozawa	Classical	0.46	1.66
+Horseshoe Mesa	Nicholas Gunn	Easy Listening	0.5	1.58
+Stop Chill	Beanie Sigel	Hip-hop&Rap	0.78	1.12
+Afterwhile	Kirk Franklin	Jazz&Blues	0.78	1.22
+Love Peace And Happiness	The Chambers Brothers	Folk	0.7	1.34
+Love In The Afternoon	Viv Youell	Folk	0.68	1.36
+Plunging Into Darkness	Zion Train	Latin	0.48	1.58
+Simple People	Milosh	Electroni	0.76	1.32
+We're Not Lonely	Jamie Knight	Folk	0.76	1.34
+Ambient Bliss	Dylan Tauber	Electroni	0.62	1.48
+Childhood Dreams	Fire Prince	Folk	0.64	1.26
+Give In To Me	Michael Jackson	Pop	0.68	1.32
+He Talks To Me	Lorrie Morgan	Country	0.76	1.2
+The Guests	Leonard Cohen	Folk	0.7	1.26
+I Love Being Here With You	Diana Krall	Jazz&Blues	0.66	1.3
+Road To Nowhere	DJ Krush	Electroni	0.4	1.4
+Cha Cha Chee Boom	Stan Kenton	Jazz&Blues	0.72	1.3
+Puddem Up	Kazzer	Hip-hop&Rap	0.76	1.18
+Steppin Into Heaven	R Kelly	R&B	0.72	1.24
+Between The Sheets	411	R&B	0.76	1.24
+Thing That Should Not Be	Metallica	Rock	0.76	1.12
+All Day Thinkin'	Babyface	R&B	0.74	1.14
+Sherzo (Munter) (Sinfonia Domestica Op53)	Edo De Waart	Classical	0.58	1.38
+Pure Pretty Gal	Beenie Man	Latin	0.82	1.18
+White Christmas	Faith Evans	Pop	0.92	1.14
+I've Got A Tiger By The Tail	Sara Evans	Country	0.78	1.34
+Angel Of Music	Andrew Lloyd Webber	Easy Listening	0.68	1.1
+Seu Delegado	Badi Assad	Latin	0.72	1.28
+Boulevard De La Mort	Alpha Blondy	Latin	0.72	1.3
+New Direction	Grooove Factory Conobus	Electroni	0.72	1.38
+Mother Was Called Away	The Mayfield Brothers	Country	0.76	1.26
+Black Rose	Chaotica	Electroni	0.76	1.34
+I Love You Babe	Babyface	Pop	0.72	1.16
+Beauty And The Beast	Celine Dion	Pop	0.82	1.24
+O Come O Come Emmanuel	Enya	Pop	0.76	1.14
+What We Talkin' About	Jay-Z	Hip-hop&Rap	0.76	1.14
+Je N'ai Pas Ose	Julio Iglesias	Latin	0.76	1.32
+Burn It Up	R Kelly	Hip-hop&Rap	0.8	1.26
+These Are The Special Times	Christina Aguilera	Rock	0.86	1.14
+Escape	Metallica	Rock	0.84	1.3
+In God's Country	U2	Rock	0.8	1.24
+Chelsea Hotel	Leonard Cohen	Folk	0.72	1.16
+Blah Blah Blah	Brooke Valentine	Pop	0.86	1.32
+Can I Get A Witness	Marvin Gaye	R&B	0.78	1.28
+Get On The Floor	Michael Jackson	Pop	0.8	1.32
+What If	Creed	Pop	0.76	1.28
+Little Moments	Brad Paisley	Country	0.72	1.28
+Hallelujah Here She Comes	U2	Rock	0.88	1.28
+Welcome Home	Metallica	Rock	0.96	1.12
+Am I Evil	Metallica	Rock	0.84	1.32
+One	U2	Rock	0.72	1.24
+Summer Rain	U2	Rock	0.76	1.26
+5 Melodies De Venise Op 58 (Verlaine)  III Green	Rachel Yakar	Classical	0.56	1.3
+Premier Repons H117 Seniores Populi	GÃ©rard Lesne	Classical	0.66	1.32
+Lilacs Op. 21 No. 5	Dmitri Alexeev	Classical	0.52	1.48
+Credo In Unum Deum	Collegium Cartusianum	Classical	0.68	1.34
+Bride In Cold Tears	Tangerine Dream	Electroni	0.7	1.34
+This Christmas	Faith Evans	Pop	0.86	1.2
+Goldwyn Follies  Love Walked In	Kiri Te Kanawa	Classical	0.66	1.28
+Gloire Immortelle	Andre Cluytens	Classical	0.68	1.3
+I'll Never Be Free	Kay Starr	Jazz&Blues	0.74	1.24
+A Time For Spring	Nicola Conte	Jazz&Blues	0.76	1.32
+Nobody Drinks Alone	Keith Urban	Country	0.68	1.32
+Bolder Than Paradise	Shannon McNally	Country	0.66	1.2
+Tema De Los Mosquitos	Leon Gieco	Latin	0.74	1.32
+Just A Little Bit Longer	Maxi Priest	Easy Listening	0.88	1.22
+The Blue Collar Rock	The Tractors	Country	0.74	1.3
+Castles Made Of Sand	Four Tet	Electroni	0.68	1.24
+Clothes Of Sand	Nick Drake	Folk	0.7	1.28
+Over Our Heads	Zero 7	Electroni	0.62	1.34
+On Top Of The World	Chaka Demus	Latin	0.78	1.22
+The Bottle	Gil Scott Heron	R&B	0.88	1.2
+River Deep Mountain High	Tina Turner	Jazz&Blues	0.76	1.3
+Love In The First Degree	Alabama	Country	0.72	1.26
+Long Distance Runaround	Red House Painters	Folk	0.66	1.22
+Lick The Balls	Slick Rick	Hip-hop&Rap	0.76	1.24
+Sweet Temptation	Jewel	Rock	0.66	1.3
+You're So Damn Hot	Ok Go	Rock	0.72	1.28
+At The Chime Of A City Clock	Nick Drake	Folk	0.72	1.42
+Made You Look	Nas	Hip-hop&Rap	0.76	1.24
+Ironic	Alanis Morissette	Rock	0.68	1.28
+Animal City	Shakira	Pop	0.74	1.28
+Electrical Storm	U2	Rock	0.66	1.28
+Guns Before Butter	Gang Of Four	Rock	0.76	1.34
+Requiem  Graduel	Jean-Claude Malgoire	Classical	0.62	1.48
+Boogie Woogie Stomp	Albert Ammons	Jazz&Blues	0.68	1.3
+The One I Sing My Love Songs To	Waylon Jennings	Country	0.62	1.36
+å‡¡äººæ­Œ	Lin Hai	Easy Listening	0.48	1.34
+Orinoco Flow	Enya	Easy Listening	0.58	1.34
+It's Funky Enough	The D.O.C.	Hip-hop&Rap	0.76	1.22
+Give Dem Some Way	Damian Jr Gong Marley	Latin	0.66	1.26
+The Next Time I'm In Town	Chet Atkins	Country	0.66	1.38
+Blood Tainted Love	Yellowbelly	Country	0.62	1.36
+Pushing Too Hard	The Marvelettes	R&B	0.66	1.32
+My All	Mariah Carey	R&B	0.72	1.34
+Blues In Paris	Sidney Bechet	Jazz&Blues	0.66	1.4
+Throwed Off	Baby Bash	Hip-hop&Rap	0.74	1.2
+He's No Hero	Brian Mcfadden	R&B	0.7	1.32
+Jungle Flight	BRAD WHITE & PIERRE GRILE	Easy Listening	0.5	1.52
+å¤å¤©çš„æµªå£°	Fan Zongpei	Classical	0.48	1.54
+Suddenly It's Christmas	Loudon Wainwright III	Folk	0.68	1.3
+At The Fireplace	Itzhak Perlman	Easy Listening	0.46	1.46
+å¼„äº‘	Lin Hai	Easy Listening	0.44	1.36
+Walking Through Fire	Mary Chapin Carpenter	Country	0.62	1.26
+Gangster Of Love	Cunnie Williams	R&B	0.64	1.32
+Game Of  Pool	Archive	Easy Listening	0.45	1.2
+Deep Blue Sea	Deep Forest	Easy Listening	0.56	1.34
+Squeeze Me	Diana Krall	Jazz&Blues	0.64	1.22
+You Are My Desire	Sarah Connor	R&B	0.7	1.34
+How Many Mics	The Fugees	Hip-hop&Rap	0.78	1.16
+Mysterious Ways	U2	Rock	0.64	1.28
+Rosen Fuer Mama	Jonny Hill	Country	0.78	1.26
+How Could I Love You More	Minnie Riperton	R&B	0.7	1.22
+Beijo Geladinho	Negritude Junior	Latin	0.72	1.34
+La Ragazza E L' Eremita	Angelo Branduardi	Latin	0.72	1.32
+Hello Love	Hank Snow	Country	0.66	1.34
+Goodbye Again	John Denver	Country	0.66	1.36
+From Heaven To Earth	Nicholas Gunn	Easy Listening	0.76	1.52
+Jerry Lee Is The King	Windopane	Rock	0.68	1.32
+My Name Is	Eminem	Hip-hop&Rap	0.78	1.2
+Deep And Wyde	A-TEAM	Hip-hop&Rap	0.76	1.24
+Smile In Ya Face	Black Rob	Hip-hop&Rap	0.74	1.18
+Me Lo Dice El Alma	Luis Fonsi	Latin	0.64	1.28
+Summertime Blues	Alan Jackson	Country	0.7	1.36
+Beyond My Wildest Dreams	Mark Knopfler	Country	0.6	1.34
+Tik Pret Savu	Izlase	Country	0.66	1.32
+Hardcour Again	President Brown	Latin	0.7	1.28
+Side Of The Road	Languis	Electroni	0.54	1.3
+En attendant	Annie Dgfns	Easy Listening	0.62	1.4
+The Chosen Ones	John Denver	Folk	0.64	1.32
+It Only Takes A Moment	Peter Britt	Country	0.62	1.34
+You Can Have Me Anytime	Boz Scaggs	R&B	0.64	1.22
+One Sweet Day	Mariah Carey	Pop	0.68	1.28
+Kami O Shin Jiru	Scorpions	Rock	0.66	1.26
+Because You Loved Me	Celine Dion	Pop	0.66	1.3
+Hey You	Madonna	Pop	0.66	1.18
+4 Minutes (Junkie XL Remix Edit)	Madonna	Pop	0.6	1.44
+Amarantine	Enya	Easy Listening	0.46	1.32
+Adeste, Fideles	Enya	Easy Listening	0.52	1.4
+Just A Reminder	Craig David	R&B	0.66	1.24
+I Can't Stand It	Eric Clapton	Jazz&Blues	0.64	1.32
+Love's Contagious	Tarrus Riley	Latin	0.68	1.3
+Beat On The Brat	Dee Dee Ramone	Rock	0.84	1.1
+Speechless	Michael Jackson	Pop	0.72	1.06
+Don't Bother	Shakira	Pop	0.9	1.3
+Evon Is On	Dr Dre	Hip-hop&Rap	0.76	1.22
+I've Got The World On A String	Diana Krall	Pop	0.8	1.22
+Girlfriend	Michael Jackson	Pop	0.8	1.3
+You're My Best Friend	Don Williams	Country	0.7	1.38
+Youn And Sexy	Fabolous	Hip-hop&Rap	0.76	1.22
+Merry Go Round	George Winston	Easy Listening	0.56	1.3
+The Frim Fram Sauce	Diana Krall	Jazz&Blues	0.78	1.32
+I Don't Look Back	Gary Allan	Jazz&Blues	0.72	1.32
+Higher	Creed	Pop	0.76	1.32
+Don't Stop Dancing	Creed	Pop	0.7	1.3
+Spanish Eyes	U2	Rock	0.64	1.32
+Unchained Melody	U2	Rock	0.6	1.3
+Through The Never	Metallica	Rock	0.74	1.3
+I Want You To Love Me	Muddy Waters	Jazz&Blues	0.66	1.32
+The First Time	U2	Folk	0.66	1.34
