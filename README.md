@@ -1,4 +1,4 @@
-# msr
+# Music Stretching Resistance Dataset #
 
 This is a dataset consisting of the music stretching resistance of 894 songs of various genres.
 [Music stretching resistance (MSR)](https://arxiv.org/abs/1701.03274) measures the acceptable range of time stretching rate of music piece for people’s psychoacoustic hearing.
